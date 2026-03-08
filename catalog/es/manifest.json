@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-03-07T04:40:20+00:00",
+  "generatedAt": "2026-03-08T04:53:35+00:00",
   "source": "Radio Browser API",
   "server": "https://de1.api.radio-browser.info",
   "countryCode": "ES",
   "counts": {
-    "fetched": 1185,
+    "fetched": 1188,
     "kept": 800,
     "sections": 5
   }
